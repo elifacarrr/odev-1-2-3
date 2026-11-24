@@ -1,0 +1,1 @@
+psql -d kafe -a -f dml.sql calistirildiginda olusan cikti (UPDATE, 23503 hatasi ve ROLLBACK) buraya eklenecektir.
